@@ -7,4 +7,4 @@ Furthermore, I explored the fascinating world of neural networks. I gained insig
 
 Lastly, I dived into Convolutional Neural Networks (CNNs), a specialized type of neural network primarily designed for processing and analyzing visual data, such as images. CNNs employ convolutional layers, pooling layers, and fully connected layers to automatically extract features from images and make accurate predictions or classifications.
 
-Through these three weeks of study, I have acquired a solid understanding of the foundational concepts of machine learning, supervised learning, linear regression, classification, gradient descent, neural networks, and CNNs. I am now equipped with a versatile toolkit that will enable me to explore and tackle a wide range of real-world problems using machine learning techniques.
+Through these three weeks of study, I have acquired a solid understanding of the foundational concepts of machine learning, supervised learning, linear regression, classification, gradient descent, neural networks, and CNNs. I am now equipped with a versatile toolkit that will enable me to complete my project.
